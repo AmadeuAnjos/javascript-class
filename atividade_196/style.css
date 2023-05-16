@@ -1,0 +1,16 @@
+.estilo {
+    background: #FF0000;
+    color: white;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+
+.estilo2 {
+    background: #1f7ea3;
+    color: white;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font: 25px;
+}

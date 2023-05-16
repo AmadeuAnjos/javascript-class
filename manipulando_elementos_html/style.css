@@ -1,0 +1,17 @@
+#teste {
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+}
+
+#green {
+    background-color: rgb(0, 243, 32);
+}
+
+#blue {
+    background-color: blue;
+}
+
+#red {
+    background-color: red;
+}

@@ -1,0 +1,44 @@
+.teste {
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teste2 {
+    background-color: rgb(125, 77, 170);
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teste3 {
+    background-color: rgb(93, 68, 117);
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teste4 {
+    background-color: rgb(193, 152, 231);
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teste5 {
+    background-color: rgb(193, 152, 231);
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
