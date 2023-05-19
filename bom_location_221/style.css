@@ -1,0 +1,15 @@
+body {
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+button {
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border: none;
+}
